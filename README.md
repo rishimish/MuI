@@ -10,7 +10,7 @@
 
   `<link rel="stylesheet" href="https://sigma-ui.netlify.app/styles/main.css" />`
 
-- [Documentation](https://sigma-ui.netlify.app/pages/docs.html) is there to see the given components and classes to use them.
+- [Documentation](https://sigma-ui.rishmi5h.com/pages/docs.html) is there to see the given components and classes to use them.
 
 - Components
   - Alert
