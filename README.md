@@ -8,7 +8,7 @@
 
 - Include the given link tag in the head tag of your html file and you are ready to use in your project
 
-  `<link rel="stylesheet" href="https://sigma-ui.netlify.app/styles/main.css" />`
+  `<link rel="stylesheet" href="https://sigma-ui.rishmi5h.com/styles/main.css" />`
 
 - [Documentation](https://sigma-ui.rishmi5h.com/pages/docs.html) is there to see the given components and classes to use them.
 
